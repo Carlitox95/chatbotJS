@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
+ <script type="text/javascript" src="js/bootstrap.min.js"></script>
+ <script type="text/javascript" src="js/chatBot.js"></script>
+ <link rel="stylesheet" href="css/bootstrap.min.css">
+ <link rel="stylesheet" href="css/chatBot.css">
+ <link rel="stylesheet" href="css/font-awesome.css"> 
+ <meta charset="utf-8">
+ <title>ChatBOT</title>
+</head>
+
+<body>
+
+<!-- Chatbot -->
+<div class="botIcon">
+	<div class="botIconContainer">
+		<div class="iconInner">
+		 <i class="fa fa-commenting" aria-hidden="true"></i>
+		</div>
+	</div>
+
+	<div class="Layout Layout-open Layout-expand Layout-right redondearBordes">
+		<div class="Messenger_messenger">
+			<div class="Messenger_header">
+				<h4 class="Messenger_prompt">MiChat</h4> <span class="chat_close_icon"><i class="fa fa-window-close" aria-hidden="true"></i></span>
+			</div>
+			<div class="Messenger_content">
+				<!-- Lista de Mensajes -->
+				<div class="Messages">
+					<div class="Messages_list"></div>
+				</div>
+				<!-- Lista de Mensajes -->
+				<!-- Formulario  -->
+				<form id="messenger" class="form-group">
+					<div class="row">
+                  <!--<textarea name="msg" class="Input_field" placeholder="Send a message..."></textarea>  -->
+                  <div class="col-9">
+                   <input id="ingresarMensaje" name="msg" class="form-control" placeholder="Escribir un Mensaje">           
+                  </div>
+                  <div class="col-2">
+                   <button id="botonEnviarMensaje" type="submit" class="btn btn-info"><i class="fa fa-commenting" aria-hidden="true"></i></button>
+                  </div>					 
+					</div>
+				</form>
+				<!-- Formulario  -->
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Chatbot -->
+
+
+</body>
+</html>
+
