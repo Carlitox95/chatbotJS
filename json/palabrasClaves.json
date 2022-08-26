@@ -1,110 +1,14 @@
 [
   {
-    "palabraClave": "tramites",
-    "enlace": "/tramites_home",
-    "vistaWeb": "Tramites",
-    "respuesta": "Para conocer los tramites que se pueden realizar actualmente, usted debera ingresar al siguiente enlace <br>"
+    "palabraClave": "ciudades",
+    "enlace": "/ciudades",
+    "vistaWeb": "Ciudades",
+    "respuesta": "Para conocer las mejores ciudades del mundo, usted debera ingresar al siguiente enlace <br>"
   },
   {
-    "palabraClave": "atencion",
-    "enlace": "/centros",
-    "vistaWeb": "Centros de Atencion",
-    "respuesta": "Puede visualizar el listado de nuestros centros de atencion desde el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "cap",
-    "enlace": "/centros",
-    "vistaWeb": "Centros de Atencion",
-    "respuesta": "Puede visualizar el listado de nuestros centros de atencion desde el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "caps",
-    "enlace": "/centros",
-    "vistaWeb": "Centros de Atencion",
-    "respuesta": "Puede visualizar el listado de nuestros centros de atencion desde el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "jubilacion",
-    "enlace": "/jubilaciones",
-    "vistaWeb": "Jubilaciones",
-    "respuesta": "Puede visualizar las jubilaciones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "jubilaciones",
-    "enlace": "/jubilaciones",
-    "vistaWeb": "Jubilaciones",
-    "respuesta": "Puede visualizar las jubilaciones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "jubilarme",
-    "enlace": "/jubilaciones",
-    "vistaWeb": "Jubilacion",
-    "respuesta": "Puede visualizar las jubilaciones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "jubilo",
-    "enlace": "/jubilaciones",
-    "vistaWeb": "Jubilacion",
-    "respuesta": "Puede visualizar las jubilaciones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "jubilado",
-    "enlace": "/jubilaciones",
-    "vistaWeb": "Jubilacion",
-    "respuesta": "Puede visualizar las jubilaciones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "jubilada",
-    "enlace": "/jubilaciones",
-    "vistaWeb": "Jubilacion",
-    "respuesta": "Puede visualizar las jubilaciones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "pension",
-    "enlace": "/pensiones",
-    "vistaWeb": "Pensiones",
-    "respuesta": "Puede visualizar las pensiones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "pensionado",
-    "enlace": "/pensiones",
-    "vistaWeb": "Pensiones",
-    "respuesta": "Puede visualizar las pensiones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "pensionada",
-    "enlace": "/pensiones",
-    "vistaWeb": "Pensiones",
-    "respuesta": "Puede visualizar las pensiones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "pensiones",
-    "enlace": "/pensiones",
-    "vistaWeb": "Pensiones",
-    "respuesta": "Puede visualizar las pensiones que ofrecemos en el siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "ex-combatientes",
-    "enlace": "/ex-combatientes",
-    "vistaWeb": "Malvinas",
-    "respuesta": "Para acceder a todos los tramites relacionados con Ex Combatientes ir al siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "combatiente",
-    "enlace": "/ex-combatientes",
-    "vistaWeb": "Malvinas",
-    "respuesta": "Para acceder a todos los tramites relacionados con Ex Combatientes ir al siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "combatientes",
-    "enlace": "/ex-combatientes",
-    "vistaWeb": "Malvinas",
-    "respuesta": "Para acceder a todos los tramites relacionados con Ex Combatientes ir al siguiente enlace<br>"
-  },
-  {
-    "palabraClave": "malvinas",
-    "enlace": "/ex-combatientes",
-    "vistaWeb": "Malvinas",
-    "respuesta": "Para acceder a todos los tramites relacionados con Ex Combatientes debe acceder al siguiente enlace<br>"
+    "palabraClave": "pizzas",
+    "enlace": "/pizzas",
+    "vistaWeb": "Pizzas",
+    "respuesta": "Puede visualizar el listado de nuestras Pizzas desde el siguiente enlace<br>"
   }
 ]
