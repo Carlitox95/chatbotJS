@@ -1,18 +1,10 @@
 [
   {
-    "palabraClave": "tramites",
-    "sugerencia": "¿Que tramites puedo realizar?"    
+    "palabraClave": "ciudades",
+    "sugerencia": "¿Que ciudades son las mejores del mundo?"    
   },
   {
-    "palabraClave": "atencion",
-    "sugerencia": "¿Donde se encuentran las Oficias de atencion?"    
-  },
-  {
-    "palabraClave": "jubilaciones",
-    "sugerencia": "¿Que Jubilaciones tiene el IPS?"    
-  },
-  {
-    "palabraClave": "pensiones",
-    "sugerencia": "¿Que Pensiones ofrece el IPS actualmente?"    
+    "palabraClave": "pizzas",
+    "sugerencia": "¿Cuantas Variedades de Pizzas existen?"    
   }  
 ]
